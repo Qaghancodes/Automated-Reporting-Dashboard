@@ -1,0 +1,2 @@
+# Automated Reporting Dashboard
+Here's the summary of the provided text, within the 350-character limit:  **AI Business Intelligence portal** generates on-demand reports from multiple data sources via **natural-language queries**. Built with **React/D3.js** and **Python FastAPI**, it uses **OpenAI GPT-4 (LangChain)** to interpret queries and translate them into SQL, returning instant charts. Hosted on **Azure App Service/Cosmos DB**. Solo-built, it drastically cuts reporting time and enables faster data-driven decisions.
